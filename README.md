@@ -1,2 +1,2 @@
-# CSE_106_DataStructures_and-_Algorithms_I_Sessional
-CSE_106_DataStructures_and _Algorithms_I_Sessional
+# CSE_106_DataStructures_and_Algorithms_I_Sessional
+CSE_106_DataStructures_and_Algorithms_I_Sessional
